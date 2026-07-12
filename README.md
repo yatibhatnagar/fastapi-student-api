@@ -4,6 +4,7 @@ This project is a simple Student CRUD API built using FastAPI.
 
 ## Features
 - Create Student
+- update student
 - Get All Students
 - Get Student by ID
 - Update Student
